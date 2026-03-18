@@ -9,7 +9,7 @@ app.use(express.json());
 app.use('/media', express.static('media'));
 
 // ==========================================
-// 🔒 SETTINGS
+//  SETTINGS
 // ==========================================
 const SECRET_PASSWORD = "ÅsnaHAHA3789";
 
